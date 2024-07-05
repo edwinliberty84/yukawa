@@ -18,7 +18,7 @@ locale                   : "en-US"
 title                    : ""
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "john"
+name                     : "Edwin"
 description              : "Red Team / Pentest"
 url                      : "https://Johnermac.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
