@@ -107,10 +107,10 @@ after_footer_scripts:
 
 # Site Author
 author:
-  name             : "Johnermac"
+  name             : "Edwin"
   avatar           : "/assets/images/main/avatar.jpg"
   bio              : "Red Team Analyst / Pentester  "
-  location         : "Brazil"
+  location         : "Singapore"
   email            :
   links:
     - label: "GitHub"
