@@ -18,7 +18,7 @@ toc: false
 
 # SLIVER
 
-<img src="/assets/images/posts/c2/c2-teaser.jpg" alt="Alt text" width="500" class="align-center">
+<img src="yukawa/assets/images/posts/c2/c2-teaser.jpg" alt="Alt text" width="500" class="align-center">
 
 
 ## DOC
